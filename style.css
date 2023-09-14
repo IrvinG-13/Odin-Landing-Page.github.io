@@ -4,10 +4,6 @@
     font-family: 'Nunito', sans-serif;
 }
 
-body{
-    scroll-behavior: smooth;
-}
-
 .page{
     display: flex;
     flex-wrap: wrap;
